@@ -1,1 +1,4 @@
-asasdfasdfasdfasdfasdvfasdfADFadsf
+a = asasdfasdfasdfasdfasdvfasdfADFadsf
+
+print(a)
+
