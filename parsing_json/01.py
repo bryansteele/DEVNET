@@ -12,6 +12,7 @@ with open(os.path.join(here, "/Users/bryan/dne-devfun-code/intro-python/"
 print("json_text is a", type(json_text))
 
 print('########################################################')
+
 print(json_text)
 
 print('########################################################')

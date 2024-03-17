@@ -9,4 +9,5 @@ with open(os.path.join(here, "/Users/bryan/dne-devfun-code/"
                             "intro-python/parsing-json/nested_data.py")) as file:
     json_text = file.read()
 
-print(json_text)
+print(json_text) 
+
