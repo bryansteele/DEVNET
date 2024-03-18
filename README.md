@@ -1,2 +1,2 @@
-# devasc
-Cisco DEVASC Study
+# DEVNET
+Cisco DEVNET Study
