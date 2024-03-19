@@ -1,2 +1,0 @@
-# DEVNET
-Cisco DEVASC Study
